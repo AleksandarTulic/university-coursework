@@ -26,3 +26,4 @@ Their full commit history is preserved.
 | [`Testiranje-i-Kvalitet-Softvera/`](./Testiranje-i-Kvalitet-Softvera) | HTML | Two software testing projects |
 | [`Internet-Programiranje/`](./Internet-Programiranje) | Java | Online marketplace (Angular, Spring Boot, JSP/Servlet) and exercises |
 | [`Elektronsko-Poslovanje/`](./Elektronsko-Poslovanje) | Python | Course projects |
+| [`Praksa/`](./Praksa) | C# | Internship exercises (`Praksa-Exercises/`) and the TravelGuide API (`TravelGuide/`) |
