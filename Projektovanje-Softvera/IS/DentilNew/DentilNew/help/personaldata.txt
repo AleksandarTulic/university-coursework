@@ -1,0 +1,5 @@
+The "Personal data" tab contains personal data about the currently registered user, as well as the date of employment. 
+
+At the bottom of the window is the option to change the theme. 
+
+In addition to the LIGHT and DARK themes, it is also possible to choose from the color palette a certain color (BlueGrey, Green, Blue) in which the interface will be painted.
